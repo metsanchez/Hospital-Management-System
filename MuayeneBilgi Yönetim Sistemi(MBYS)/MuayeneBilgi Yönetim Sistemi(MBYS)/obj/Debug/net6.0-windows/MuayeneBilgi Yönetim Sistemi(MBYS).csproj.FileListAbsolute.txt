@@ -1,0 +1,26 @@
+C:\Users\revios\source\repos\MuayeneBilgi Yönetim Sistemi(MBYS)\MuayeneBilgi Yönetim Sistemi(MBYS)\bin\Debug\net6.0-windows\MuayeneBilgi Yönetim Sistemi(MBYS).exe
+C:\Users\revios\source\repos\MuayeneBilgi Yönetim Sistemi(MBYS)\MuayeneBilgi Yönetim Sistemi(MBYS)\bin\Debug\net6.0-windows\MuayeneBilgi Yönetim Sistemi(MBYS).deps.json
+C:\Users\revios\source\repos\MuayeneBilgi Yönetim Sistemi(MBYS)\MuayeneBilgi Yönetim Sistemi(MBYS)\bin\Debug\net6.0-windows\MuayeneBilgi Yönetim Sistemi(MBYS).runtimeconfig.json
+C:\Users\revios\source\repos\MuayeneBilgi Yönetim Sistemi(MBYS)\MuayeneBilgi Yönetim Sistemi(MBYS)\bin\Debug\net6.0-windows\MuayeneBilgi Yönetim Sistemi(MBYS).dll
+C:\Users\revios\source\repos\MuayeneBilgi Yönetim Sistemi(MBYS)\MuayeneBilgi Yönetim Sistemi(MBYS)\bin\Debug\net6.0-windows\MuayeneBilgi Yönetim Sistemi(MBYS).pdb
+C:\Users\revios\source\repos\MuayeneBilgi Yönetim Sistemi(MBYS)\MuayeneBilgi Yönetim Sistemi(MBYS)\obj\Debug\net6.0-windows\MuayeneBilgi Yönetim Sistemi(MBYS).csproj.AssemblyReference.cache
+C:\Users\revios\source\repos\MuayeneBilgi Yönetim Sistemi(MBYS)\MuayeneBilgi Yönetim Sistemi(MBYS)\obj\Debug\net6.0-windows\MuayeneBilgi_Yönetim_Sistemi_MBYS_.Form1.resources
+C:\Users\revios\source\repos\MuayeneBilgi Yönetim Sistemi(MBYS)\MuayeneBilgi Yönetim Sistemi(MBYS)\obj\Debug\net6.0-windows\MuayeneBilgi_Yönetim_Sistemi_MBYS_.HastaIslemleri.resources
+C:\Users\revios\source\repos\MuayeneBilgi Yönetim Sistemi(MBYS)\MuayeneBilgi Yönetim Sistemi(MBYS)\obj\Debug\net6.0-windows\MuayeneBilgi_Yönetim_Sistemi_MBYS_.MuayeneIslemleri.resources
+C:\Users\revios\source\repos\MuayeneBilgi Yönetim Sistemi(MBYS)\MuayeneBilgi Yönetim Sistemi(MBYS)\obj\Debug\net6.0-windows\MuayeneBilgi Yönetim Sistemi(MBYS).csproj.GenerateResource.cache
+C:\Users\revios\source\repos\MuayeneBilgi Yönetim Sistemi(MBYS)\MuayeneBilgi Yönetim Sistemi(MBYS)\obj\Debug\net6.0-windows\MuayeneBilgi Yönetim Sistemi(MBYS).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\revios\source\repos\MuayeneBilgi Yönetim Sistemi(MBYS)\MuayeneBilgi Yönetim Sistemi(MBYS)\obj\Debug\net6.0-windows\MuayeneBilgi Yönetim Sistemi(MBYS).AssemblyInfoInputs.cache
+C:\Users\revios\source\repos\MuayeneBilgi Yönetim Sistemi(MBYS)\MuayeneBilgi Yönetim Sistemi(MBYS)\obj\Debug\net6.0-windows\MuayeneBilgi Yönetim Sistemi(MBYS).AssemblyInfo.cs
+C:\Users\revios\source\repos\MuayeneBilgi Yönetim Sistemi(MBYS)\MuayeneBilgi Yönetim Sistemi(MBYS)\obj\Debug\net6.0-windows\MuayeneBilgi Yönetim Sistemi(MBYS).csproj.CoreCompileInputs.cache
+C:\Users\revios\source\repos\MuayeneBilgi Yönetim Sistemi(MBYS)\MuayeneBilgi Yönetim Sistemi(MBYS)\obj\Debug\net6.0-windows\MuayeneBilgi Yönetim Sistemi(MBYS).dll
+C:\Users\revios\source\repos\MuayeneBilgi Yönetim Sistemi(MBYS)\MuayeneBilgi Yönetim Sistemi(MBYS)\obj\Debug\net6.0-windows\refint\MuayeneBilgi Yönetim Sistemi(MBYS).dll
+C:\Users\revios\source\repos\MuayeneBilgi Yönetim Sistemi(MBYS)\MuayeneBilgi Yönetim Sistemi(MBYS)\obj\Debug\net6.0-windows\MuayeneBilgi Yönetim Sistemi(MBYS).pdb
+C:\Users\revios\source\repos\MuayeneBilgi Yönetim Sistemi(MBYS)\MuayeneBilgi Yönetim Sistemi(MBYS)\obj\Debug\net6.0-windows\MuayeneBilgi Yönetim Sistemi(MBYS).genruntimeconfig.cache
+C:\Users\revios\source\repos\MuayeneBilgi Yönetim Sistemi(MBYS)\MuayeneBilgi Yönetim Sistemi(MBYS)\obj\Debug\net6.0-windows\ref\MuayeneBilgi Yönetim Sistemi(MBYS).dll
+C:\Users\revios\source\repos\MuayeneBilgi Yönetim Sistemi(MBYS)\MuayeneBilgi Yönetim Sistemi(MBYS)\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\revios\source\repos\MuayeneBilgi Yönetim Sistemi(MBYS)\MuayeneBilgi Yönetim Sistemi(MBYS)\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\revios\source\repos\MuayeneBilgi Yönetim Sistemi(MBYS)\MuayeneBilgi Yönetim Sistemi(MBYS)\obj\Debug\net6.0-windows\MuayeneBilgi Yönetim Sistemi(MBYS).csproj.CopyComplete
+C:\Users\revios\source\repos\MuayeneBilgi Yönetim Sistemi(MBYS)\MuayeneBilgi Yönetim Sistemi(MBYS)\obj\Debug\net6.0-windows\MuayeneBilgi_Yönetim_Sistemi_MBYS_.GecmisMuayeneler.resources
+C:\Users\revios\source\repos\MuayeneBilgi Yönetim Sistemi(MBYS)\MuayeneBilgi Yönetim Sistemi(MBYS)\obj\Debug\net6.0-windows\MuayeneBilgi_Yönetim_Sistemi_MBYS_.IlacEkrani.resources
+C:\Users\revios\source\repos\MuayeneBilgi Yönetim Sistemi(MBYS)\MuayeneBilgi Yönetim Sistemi(MBYS)\obj\Debug\net6.0-windows\MuayeneBilgi_Yönetim_Sistemi_MBYS_.ReceteEkrani.resources
+C:\Users\revios\source\repos\MuayeneBilgi Yönetim Sistemi(MBYS)\MuayeneBilgi Yönetim Sistemi(MBYS)\obj\Debug\net6.0-windows\MuayeneBilgi_Yönetim_Sistemi_MBYS_.Properties.Resources.resources
